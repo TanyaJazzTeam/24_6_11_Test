@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Page lacks the HTML doctype, thus triggering quirks mode
+title: Page lacks the HTML doctype, thus triggering quirks mode-etu
 description: |
   Learn how to make sure your page doesn't trigger quirks mode in older
   browsers.
